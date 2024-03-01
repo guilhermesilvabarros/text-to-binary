@@ -1,0 +1,14 @@
+{
+  "name": "text-to-binary",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node .",
+    "start:dev": "node --watch ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
